@@ -1,2 +1,2 @@
-# Number-Guessing-Game
-Build a Number guessing game, in which the user selects a range.
+# Word-Guessing-Game
+Build a word guessing game
